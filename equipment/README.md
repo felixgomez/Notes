@@ -56,7 +56,7 @@ PROS: Used to work with them, overall user experience, perfect trackpad, battery
 
 CONS: Price, lack of confidence with new models (probably subjective due to recent keyboard failures), lack of hardware scalability.
 
-### 5. Dell XPS Developer (2018 edition)
+### 4. Dell XPS Developer (2018 edition)
 
 Price: **1328,74€** (i5 8ºGen - 8Gb - SSD 256 **M.2** config.)
 [Official page](https://www.dell.com/es-es/shop/deals/nuevo-xps-13/spd/xps-13-9370-laptop/cnx37001).
@@ -68,7 +68,7 @@ PROS: 4K UHD, awesome battery duration, perfect keyboard, wide trackpad.
 CONS: Webcam.
 
 
-### 4. Lenovo Thinkpad T480s (14")
+### 5. Lenovo Thinkpad T480s (14")
 
 Price: **1381,60€** (i5 8ºGen - 8Gb - SSD 256 **M.2** config.). [Official page](https://www.lenovo.com/es/es/laptops/thinkpad/t-series/ThinkPad-T480s/p/20L7CTO1WWESES0).
 
