@@ -79,5 +79,6 @@ PROS: 4K UHD, awesome battery duration, perfect keyboard, wide trackpad.
 
 CONS: Webcam.
 
+<hr>
 
-(Thanks to [Sergio Carracedo](https://twitter.com/SergioCarracedo) for the suggestion of Thinkpad X1 Carbon. Is one of my favourite laptops, but I had the idea that it was more expensive due to previous configurations over this model at the Lenovo page.)
+* Thanks to [Sergio Carracedo](https://twitter.com/SergioCarracedo) for the suggestion of Thinkpad X1 Carbon. It's one of my favourite laptops, but I had the idea that it was more expensive due to previous configurations over this model at the Lenovo page)
