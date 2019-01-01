@@ -21,7 +21,7 @@ Yes, is a very old one, but is good for me.
 
 ## Top 5 price/quality equipment for the future
 
-This ranking is very opinionable and I change my mind twice a month aprox. Is about hardware only too. I love Apple machines but mostly for software-hardware user experience than hardware alone.
+This ranking is very opinionable and I change my mind twice a month aprox. Is about hardware only too. I love Apple machines but mostly because of their software-hardware user experience rather than hardware alone.
 
 I use free software mostly of the time (not OS dependent) so I've been thinking about leaving behind the Apple ecosystem, but I have to meditate more about it.
 
